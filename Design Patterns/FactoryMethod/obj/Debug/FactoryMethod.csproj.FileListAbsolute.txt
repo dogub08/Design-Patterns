@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\user\source\repos\Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\user\source\repos\Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\user\source\repos\Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\user\source\repos\Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
